@@ -1,2 +1,2 @@
 # amtextile
-cdn web
+CND节点 安茂官网
